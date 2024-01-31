@@ -4,7 +4,8 @@
 
 APIV is a command-line tool designed for API black-box vulnerability testing. It captures API traffic via browser proxy and conducts deep recognition and mutation of API parameters in a tree structure. Additionally, APIV incorporates various optimization strategies to enhance the precision and efficiency of API vulnerability testing.
 
-![APIV](https://github.com/youcans896768/APIV_Tool/assets/158264335/e18bda5f-8719-4ba7-9599-36d81f60d55c)
+![APIV](https://github.com/youcans896768/APIV_Tool/assets/158264335/c746dbe8-1a66-4cc8-a15c-f8303bfac981)
+
 
 
 
@@ -32,7 +33,8 @@ APIV is a command-line tool designed for API black-box vulnerability testing. It
 
 APIV supports depth parameter injection, which has a powerful data parsing and mutation algorithm. It can parse common data formats (json, xml, form, etc.) into tree structure, and then mutate the tree according to the rules in poc, including the mutation of leaf nodes and tree structure. After the mutation is complete, the tree structure is restored to the original data format.
 
-<img width="394" alt="APIV2" src="https://github.com/youcans896768/APIV_Tool/assets/158264335/7316f9ea-6975-465d-8695-24f2635e74cb">
+<img width="394" alt="APIV2" src="https://github.com/youcans896768/APIV_Tool/assets/158264335/dac5c673-ea75-4ea4-a8be-0f2339775b78">
+
 
 
 
